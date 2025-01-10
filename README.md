@@ -82,6 +82,4 @@ Copyright holder: [Odoo Community Association](https://odoo-community.org/).
 
 Template license: [MIT](LICENSE)
 
-License of the rendered repositories: [AGPL](LICENSE.jinja)
-
 License of each module in those rendered repositories: Depends on the module.
