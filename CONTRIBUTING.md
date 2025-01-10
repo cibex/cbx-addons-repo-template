@@ -15,8 +15,8 @@ pip install pipx
 pipx install poetry
 pipx ensurepath
 # Clone
-git clone https://github.com/OCA/oca-addons-repo-template
-cd oca-addons-repo-template
+git clone https://github.com/cibex/cbx-addons-repo-template
+cd cbx-addons-repo-template
 # Install development environment
 poetry install
 ```
